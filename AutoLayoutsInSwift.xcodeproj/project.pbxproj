@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D402999A2085F3AB0049C1D5 /* StatusVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40299992085F3AB0049C1D5 /* StatusVC.swift */; };
+		D402999C2085F3E00049C1D5 /* AppSearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D402999B2085F3E00049C1D5 /* AppSearchVC.swift */; };
+		D402999E2085F3FB0049C1D5 /* CreateReqVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D402999D2085F3FB0049C1D5 /* CreateReqVC.swift */; };
+		D40299A0208607C20049C1D5 /* HomeCell1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D402999F208607C10049C1D5 /* HomeCell1.swift */; };
+		D40299A2208607E50049C1D5 /* HomeCell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40299A1208607E50049C1D5 /* HomeCell2.swift */; };
+		D442A0892085C337006F4E96 /* MenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D442A0882085C337006F4E96 /* MenuVC.swift */; };
+		D442A08B2085C350006F4E96 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D442A08A2085C350006F4E96 /* TableViewCell.swift */; };
+		D442A08D2085C467006F4E96 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D442A08C2085C467006F4E96 /* HomeVC.swift */; };
+		D442A0912085C7BE006F4E96 /* TVC1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D442A0902085C7BE006F4E96 /* TVC1.swift */; };
+		D443E55A20873C9E00122F22 /* ApplyLeaveVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D443E55920873C9E00122F22 /* ApplyLeaveVC.swift */; };
+		D443E55C20873CB400122F22 /* SignUpVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D443E55B20873CB400122F22 /* SignUpVC.swift */; };
+		D443E55E20873EF500122F22 /* AttendanceVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D443E55D20873EF500122F22 /* AttendanceVC.swift */; };
 		D45CA6F62081BD7000895C86 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45CA6F52081BD7000895C86 /* AppDelegate.swift */; };
 		D45CA6F82081BD7000895C86 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45CA6F72081BD7000895C86 /* ViewController.swift */; };
 		D45CA6FB2081BD7000895C86 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D45CA6F92081BD7000895C86 /* Main.storyboard */; };
@@ -34,6 +46,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D40299992085F3AB0049C1D5 /* StatusVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusVC.swift; sourceTree = "<group>"; };
+		D402999B2085F3E00049C1D5 /* AppSearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSearchVC.swift; sourceTree = "<group>"; };
+		D402999D2085F3FB0049C1D5 /* CreateReqVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateReqVC.swift; sourceTree = "<group>"; };
+		D402999F208607C10049C1D5 /* HomeCell1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCell1.swift; sourceTree = "<group>"; };
+		D40299A1208607E50049C1D5 /* HomeCell2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCell2.swift; sourceTree = "<group>"; };
+		D442A0882085C337006F4E96 /* MenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuVC.swift; sourceTree = "<group>"; };
+		D442A08A2085C350006F4E96 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		D442A08C2085C467006F4E96 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		D442A0902085C7BE006F4E96 /* TVC1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TVC1.swift; sourceTree = "<group>"; };
+		D443E55920873C9E00122F22 /* ApplyLeaveVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplyLeaveVC.swift; sourceTree = "<group>"; };
+		D443E55B20873CB400122F22 /* SignUpVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVC.swift; sourceTree = "<group>"; };
+		D443E55D20873EF500122F22 /* AttendanceVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttendanceVC.swift; sourceTree = "<group>"; };
 		D45CA6F22081BD7000895C86 /* AutoLayoutsInSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLayoutsInSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D45CA6F52081BD7000895C86 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D45CA6F72081BD7000895C86 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +101,18 @@
 		D45CA6E92081BD7000895C86 = {
 			isa = PBXGroup;
 			children = (
+				D443E55D20873EF500122F22 /* AttendanceVC.swift */,
+				D443E55B20873CB400122F22 /* SignUpVC.swift */,
+				D443E55920873C9E00122F22 /* ApplyLeaveVC.swift */,
+				D40299A1208607E50049C1D5 /* HomeCell2.swift */,
+				D402999F208607C10049C1D5 /* HomeCell1.swift */,
+				D402999D2085F3FB0049C1D5 /* CreateReqVC.swift */,
+				D402999B2085F3E00049C1D5 /* AppSearchVC.swift */,
+				D40299992085F3AB0049C1D5 /* StatusVC.swift */,
+				D442A0902085C7BE006F4E96 /* TVC1.swift */,
+				D442A08C2085C467006F4E96 /* HomeVC.swift */,
+				D442A08A2085C350006F4E96 /* TableViewCell.swift */,
+				D442A0882085C337006F4E96 /* MenuVC.swift */,
 				D45CA6F42081BD7000895C86 /* AutoLayoutsInSwift */,
 				D45CA7092081BD7000895C86 /* AutoLayoutsInSwiftTests */,
 				D45CA7142081BD7000895C86 /* AutoLayoutsInSwiftUITests */,
@@ -260,7 +296,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				D45CA6F82081BD7000895C86 /* ViewController.swift in Sources */,
+				D40299A2208607E50049C1D5 /* HomeCell2.swift in Sources */,
+				D402999A2085F3AB0049C1D5 /* StatusVC.swift in Sources */,
+				D442A0912085C7BE006F4E96 /* TVC1.swift in Sources */,
+				D442A08D2085C467006F4E96 /* HomeVC.swift in Sources */,
+				D443E55A20873C9E00122F22 /* ApplyLeaveVC.swift in Sources */,
+				D402999C2085F3E00049C1D5 /* AppSearchVC.swift in Sources */,
+				D442A08B2085C350006F4E96 /* TableViewCell.swift in Sources */,
+				D402999E2085F3FB0049C1D5 /* CreateReqVC.swift in Sources */,
+				D443E55E20873EF500122F22 /* AttendanceVC.swift in Sources */,
 				D45CA6F62081BD7000895C86 /* AppDelegate.swift in Sources */,
+				D443E55C20873CB400122F22 /* SignUpVC.swift in Sources */,
+				D40299A0208607C20049C1D5 /* HomeCell1.swift in Sources */,
+				D442A0892085C337006F4E96 /* MenuVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
